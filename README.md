@@ -1,16 +1,18 @@
-## Hi there 👋
+# NaijaPoliProjects
+Welcome to **NaijaPoliProjects** — a student-friendly initiative created by Ahmad Sulaiman Sfulani, a graduate of Political Science from Usmanu Danfodiyo University, Sokoto.
+🎓 We support Nigerian undergraduate students in:
+- Political Science
+- Public Administration
+- Sociology
 
-<!--
-**naijapoliprojects/NaijaPoliProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 What We Offer:
+- Unique research project topics
+- Full project writing services (PDF)
+- Chapter-by-chapter academic guidance
+- Policy-relevant project ideas
+- Affordable and student-centered help
 
-Here are some ideas to get you started:
+📧 Contact: sfulaniahmad@gmail.com  
+📱 WhatsApp: 08100235894
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Built with love for students who want to excel in academic research.
